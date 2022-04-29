@@ -7,5 +7,6 @@ pipeline{
       bat python exam.py
       }
      }
+  }
  }
 }
